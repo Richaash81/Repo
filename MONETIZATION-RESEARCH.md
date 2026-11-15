@@ -2,6 +2,18 @@
 
 Date: November 15, 2026
 
+## Updated priorities (set by the founder, November 15, 2026)
+
+1. **ADR AI Autopilot / AVA** — the founder is now making sales calls. This removes the biggest blocker in this report. No paying clients yet.
+2. **Pickler's Pulse** — second priority.
+3. **Pilot medical special-issuance paperwork help** — $49 deposit test running to month-end. Go or no-go decided by deposits.
+4. **Sky Crew** — no longer a priority.
+5. **Gumroad products** — stay listed, get zero hours.
+
+Other facts: GoHighLevel plan is $97 (willing to go back to $297 if needed). Facebook and LinkedIn groups for both businesses were only just started, so audience size is near zero. Most work happens from a phone, in Denver.
+
+Because sales calls are now on the table, the "no sales calls" limit in the headline below no longer applies to ADR. The remaining limits are hours and headcount.
+
 ## How this was done
 
 - 70 research agents ran. Each took one money angle and came back with a verdict: DO NOW, DO LATER or SKIP.
